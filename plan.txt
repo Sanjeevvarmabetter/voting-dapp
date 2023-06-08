@@ -1,0 +1,11 @@
+plan for creating the voting-dapp
+
+tasks :
+1.for interacting we need a front end
+2.testing the frontend
+3.we need to design a smart contract
+4.test the smart contract
+5.we need to deploy our smart contract
+6.connecting the frontend to the deployed smart contract
+7.testing
+8.once our dapp is tested and working with no issues,we need to deploy the frontend code to a decentralized storage 
