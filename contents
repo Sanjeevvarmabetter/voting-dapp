@@ -1,0 +1,9 @@
+this smart contract contains 
+
+1.candidate struct -> keeping the informations about the candidate
+2.voter struct -> keeping the information about the voter
+4.initialization
+3.voting logic
+4.vote count
+5.results
+
